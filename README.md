@@ -57,14 +57,18 @@
 
 ## 📁 Projects
 
+
 ### 🔹 QacaShield – Rider Safety & Assignment Management
 
-**Tech Stack:** Node.js, Express.js, React, MySQL, JWT, Microservices
+**Tech Stack:** Java, Spring Boot, Spring Data JPA, Hibernate, Angular, TypeScript, MySQL, Spring Security, JWT, REST APIs
 
-- Developed backend APIs for rider assignment workflows and safety monitoring.
-- Implemented geofenced validation and real-time tracking features.
-- Used JWT-based authentication and role-based authorization.
-- Designed APIs to support reliable application workflows.
+- Developed REST APIs using Java and Spring Boot for rider assignment and safety management.
+- Built responsive frontend components using Angular and TypeScript.
+- Integrated Angular frontend with Spring Boot backend through REST APIs.
+- Used Spring Data JPA and Hibernate for database operations with MySQL.
+- Implemented JWT-based authentication and role-based access control.
+- Designed features for rider assignment workflows, geofenced validation, and safety monitoring.
+
 
 ### 🔹 Workflow Automation Dashboard
 
