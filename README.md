@@ -98,8 +98,8 @@
 ## 🤝 Let's Connect
 
 - 📧 Email: [singhjuhi0821@gmail.com](mailto:singhjuhi0821@gmail.com)
-- 🔗 LinkedIn: [Connect with me](https://www.linkedin.com/)
-- 💻 GitHub: [Explore my repositories](https://github.com/)
+- 🔗 LinkedIn: [Connect with me](https://www.linkedin.com/in/juhi-kumari-0b9218196/)
+- 💻 GitHub: [Juhikumari01](https://github.com/Juhikumari01)
 
 ---
 
