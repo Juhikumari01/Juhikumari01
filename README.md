@@ -57,6 +57,43 @@
 
 ## 📁 Projects
 
+### 🔹 QacaShield – Rider Safety & Assignment Management
+
+**Tech Stack:** Node.js, Express.js, React, MySQL, JWT, Microservices
+
+- Developed backend APIs for rider assignment workflows and safety monitoring.
+- Implemented geofenced validation and real-time tracking features.
+- Used JWT-based authentication and role-based authorization.
+- Designed APIs to support reliable application workflows.
+
+### 🔹 Workflow Automation Dashboard
+
+**Tech Stack:** Flowable BPMN, REST APIs, MySQL
+
+- Designed workflow automation and dynamic approval processes using Flowable BPMN.
+- Developed APIs for workflow monitoring and process tracking.
+- Included CSV export and MIS reporting functionality.
+- Worked on improving visibility into approval workflows.
+
+### 🔹 Authentication & Role-Based Access Control System
+
+**Tech Stack:** JWT, REST APIs, MySQL
+
+- Implemented token-based authentication using JWT.
+- Added token validation and secure password handling.
+- Designed role-based access control for application endpoints.
+- Restricted API access according to user roles and permissions.
+
+### 🔹 Java Coding Practice
+
+**Tech Stack:** Core Java, Collections, Java 8 Stream API
+
+- Practiced Java coding and interview questions.
+- Solved problems involving strings, arrays, collections, and streams.
+- Improved problem-solving skills and code readability.
+
+---
+
 ### 🔹 Java Full Stack Web Application
 
 **Tech Stack:** Java, Spring Boot, Angular, REST APIs, MySQL
